@@ -1,0 +1,3 @@
+# VIDEO3 GITHUB BRANCH
+branch atau cabang memungkinkan Anda untuk mengembangkan fitur, memperbaiki bug, atau bereksperimen dengan aman dengan ide-ide baru di area yang terkandung di repositori Anda.
+Di sini seseorang telah membuat cabang yang disebut feature1 dari cabang utama, dan Anda kemudian telah membuat cabang yang disebut feature2 dari feature1. Ada permintaan tarik terbuka untuk kedua cabang. Panah menunjukkan cabang dasar saat ini untuk setiap permintaan tarik. Pada titik ini, feature1 adalah cabang dasar untuk feature2. Jika pull request untuk feature2 digabung sekarang, cabang feature2 akan digabung menjadi feature1.
